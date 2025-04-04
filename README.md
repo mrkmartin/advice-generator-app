@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/mrkmartin/advice-generator-app)
+- Live Site URL: [Advice Generator App](https://mrkmartin.github.io/advice-generator-app/)
 
 ## My process
 
@@ -59,5 +59,5 @@ optimizing API interactions for performance. While I learned the basics of fetch
 
 ## Author
 
-- Frontend Mentor - [@mrkmartin](hhttps://www.frontendmentor.io/profile/mrkmartin)
+- Frontend Mentor - [@mrkmartin](https://www.frontendmentor.io/profile/mrkmartin)
 - Github - [@mrkmartin](https://github.com/mrkmartin)
